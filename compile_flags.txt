@@ -1,0 +1,2 @@
+-Ivendor/raylib/src
+-Ivendor/raylib-cpp/include
