@@ -1,7 +1,13 @@
 # Platformer Game
 
-### Setup
-`make setup`
+### Linux
+```
+make setup
+make
+```
 
-### Run
-`make`
+### Windows
+```
+mingw32-make setup
+mingw32-make
+```
