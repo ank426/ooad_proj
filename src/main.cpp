@@ -2,12 +2,6 @@
 
 #include <raylib-cpp.hpp>
 
-// #include "external/raylib-cpp/include/Color.hpp"
-// #include "external/raylib-cpp/include/Keyboard.hpp"
-// #include "external/raylib-cpp/include/Rectangle.hpp"
-// #include "external/raylib-cpp/include/Window.hpp"
-
-
 #define WIDTH 960
 #define HEIGHT 540
 
